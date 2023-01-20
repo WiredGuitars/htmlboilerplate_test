@@ -1,4 +1,4 @@
 # htmlboilerplate_test 
 Hello, we meet again
 
-now we're testing GIT
+I'm still testing Git and -m functionality
